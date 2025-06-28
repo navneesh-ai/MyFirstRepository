@@ -1,0 +1,2 @@
+Created file when branch is checked out
+Next step: Commit in Branch. Merge with Master. Push to github website repo
